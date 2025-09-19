@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+requests
+trimesh
+numpy
+scipy
+meshio
+pyglet
